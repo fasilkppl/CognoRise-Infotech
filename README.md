@@ -1,4 +1,4 @@
-This involves three projects:
+This repo includes three projects:
 
 CREDIT CARD FRAUD DETECTION, SHOPPER SENTIMENTS, FAKE NEWS PREDICTION
 
